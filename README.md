@@ -5,7 +5,7 @@ Glow PRODUTORA
 
 ## Demonstração
 
-<img src="./src/images/glow.png">
+<img src="./src/images/GLOOWWW.png">
 
 ## Pré-requisitos
 
